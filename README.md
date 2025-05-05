@@ -34,9 +34,8 @@ I’m a **Full Stack Web Developer** passionate about building modern, interacti
 ### 🚀 Currently Working On
 
 - 📊 **Data Analyst** at PT Pertamina Trans Kontinental (Jan 2025 – Present)
-- 📊 Full Stack Developer at PT Smart Techtex (jun - Dec 2024)
-- 💻 Freelance Full Stack Developer (Jan 2023 – Present)
-
+- 💻 Full Stack Developer at PT Smart Techtex (Jun – Dec 2024)
+- 🔧 Freelance Full Stack Developer (Jan 2023 – Present)
 
 ---
 
@@ -59,8 +58,9 @@ I’m a **Full Stack Web Developer** passionate about building modern, interacti
 
 ### 📊 GitHub Stats
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haykal24&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=haykal24&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
