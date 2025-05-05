@@ -60,14 +60,6 @@ I’m a **Full Stack Web Developer** passionate about building modern, interacti
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haykal24&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haykal24&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haykal24&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
