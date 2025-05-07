@@ -56,15 +56,6 @@ I’m a **Full Stack Web Developer** passionate about building modern, interacti
 
 ---
 
-### 📊 GitHub Stats
-
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=haykal24&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
 ### ⚡ Fun Fact
 
 I’m passionate about blending creativity and technology to deliver **outstanding web solutions** 🚀.
