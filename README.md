@@ -35,7 +35,7 @@ I’m a **Full Stack Web Developer** passionate about building modern, interacti
 
 - 📊 **Data Analyst** at PT Pertamina Trans Kontinental (Jan 2025 – Present)
 - 💻 Full Stack Developer at PT Smart Techtex (Jun – Dec 2024)
-- 🔧 Freelance Full Stack Developer (Jan 2023 – Present)
+- 🔧 Freelancer Full Stack Developer (Jan 2023 – Present)
 
 ---
 
