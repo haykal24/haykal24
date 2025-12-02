@@ -52,7 +52,7 @@ I’m a **Full Stack Web Developer** passionate about building modern, interacti
 
 - ✉️ Email: [moh.haikal02@gmail.com](mailto:moh.haikal02@gmail.com)  
 - 📱 WhatsApp: +62 878-1545-4498  
-- 🌐 Portfolio: [haikal.lokerciayumajakuning.com](https://haikal.lokerciayumajakuning.com)
+- 🌐 Portfolio: [haikal.lokerciayumajakuning.com](https://webina.id)
 
 ---
 
