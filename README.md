@@ -46,7 +46,7 @@ Currently leading technical teams and building digital startups in Indonesia.
 
 ---
 
-### 🛠️ Tech Stack & Arsenal
+### 🛠️ Tech Stack
 
 <div align="center">
 
@@ -77,8 +77,10 @@ Currently leading technical teams and building digital startups in Indonesia.
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haykal24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Haikal's Github Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haykal24&theme=tokyonight&hide_border=true" alt="Haikal's Streak" />
+  
   <br/>
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haykal24&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
