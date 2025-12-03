@@ -40,9 +40,9 @@ Currently leading technical teams and building digital startups in Indonesia.
 
 | Project | Role | Stack | Link |
 | :--- | :--- | :--- | :--- |
-| **Indonesia Marathon** | Founder & Lead Dev | Next.js, Laravel | [indonesiamarathon.com](https://indonesiamarathon.com) |
-| **Rene Turos** | Full Stack Dev | Laravel, Vue | [reneturos.com](https://reneturos.com) |
-| **Baby Box** | Developer | MERN / PHP | [babybox.id](https://babybox.id) |
+| **Indonesia Marathon** | Founder & Lead Dev | Nuxt.js, Laravel | [indonesiamarathon.com](https://indonesiamarathon.com) |
+| **Rene Turos** | Full Stack Dev | Nuxt.js, Laravel | [reneturos.com](https://reneturos.com) |
+| **Baby Box** | Developer | Laravel | [babybox.id](https://babybox.id) |
 
 ---
 
