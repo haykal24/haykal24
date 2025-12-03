@@ -77,15 +77,25 @@ Currently leading technical teams and building digital startups in Indonesia.
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haykal24&theme=tokyonight&hide_border=true" alt="Haikal's Streak" />
-  
-  <br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haykal24&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <!-- Streak -->
+  <img
+    src="https://streak-stats.demolab.com?user=haykal24&theme=tokyonight&hide_border=true"
+    alt="Haikal's Streak"
+  />
+  <br />
+
+  <!-- Top Languages -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=haykal24&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
 </div>
 
-<br>
+<br />
 
-<div align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=haykal24&style=flat-square&color=blue&label=Profile+Views" alt="Profile Views" />
+<div align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=haykal24&style=flat-square&color=blue&label=Profile+Views"
+    alt="Profile Views"
+  />
 </div>
