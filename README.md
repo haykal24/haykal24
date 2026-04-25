@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=3F8CFF&center=true&vCenter=true&width=780&lines=Hi%2C+I'm+Muhammad+Haikal+%F0%9F%91%8B;Founder+%40+Indonesia+Marathon;Founder+%40+Webina+Naramedia;Full-Stack+Developer;Building+Indonesia's+Running+Ecosystem" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=3F8CFF&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Muhammad+Haikal+%F0%9F%91%8B;Founder+%40+Indonesia+Marathon;Founder+%40+Webina+Naramedia;Full-Stack+Developer;Building+Indonesia's+Running+Ecosystem" alt="Typing SVG" />
 
 <br />
 
@@ -18,7 +18,13 @@
     <img src="https://img.shields.io/badge/Portfolio-webina.id-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://indonesiamarathon.com" target="_blank">
-    <img src="https://img.shields.io/badge/Indonesia%20Marathon-Platform-FF6B00?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Indonesia Marathon" />
+    <img src="https://img.shields.io/badge/Indonesia%20Marathon-Running%20Platform-FF6B00?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Indonesia Marathon" />
+  </a>
+  <a href="https://cityrun.id/" target="_blank">
+    <img src="https://img.shields.io/badge/CityRun-Urban%20Run%20Series-111827?style=for-the-badge&logo=runkeeper&logoColor=white" alt="CityRun" />
+  </a>
+  <a href="https://lokerciayumajakuning.com" target="_blank">
+    <img src="https://img.shields.io/badge/Loker%20Ciayumajakuning-Job%20Portal-2563EB?style=for-the-badge&logo=briefcase&logoColor=white" alt="Loker Ciayumajakuning" />
   </a>
   <a href="https://www.linkedin.com/in/muhammad-haikal24/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Haikal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -50,7 +56,7 @@ I believe great products are not only built with clean code, but also with stron
 - 🎟️ Developing **Nusatix** — an end-to-end ticketing platform for event organizers
 - 🏙️ Leading **CityRun** — an urban running series across iconic cities in Indonesia
 - 💼 Growing **Webina Naramedia** as a digital product group
-- 🌍 Building regional platforms such as **Loker Ciayumajakuning**
+- 🌍 Building **Loker Ciayumajakuning** — a regional job portal for Ciayumajakuning
 
 ---
 
@@ -77,10 +83,11 @@ I care about speed, stability, and user experience. My development approach focu
 
 Focus areas:
 
-- SSR and hybrid rendering
+- Server-side rendering
+- Hybrid rendering
 - SWR caching strategy
-- WebP/AVIF asset optimization
 - API payload optimization
+- WebP/AVIF asset optimization
 - Zero CLS layout strategy
 - Cloudflare R2 asset storage
 - SEO-friendly frontend architecture
@@ -118,8 +125,8 @@ Experience includes:
 | :--- | :--- | :--- | :--- |
 | **Indonesia Marathon** | Founder & Lead Developer | Running calendar, media, and event discovery platform for Indonesian runners | [indonesiamarathon.com](https://indonesiamarathon.com) |
 | **Nusatix** | Founder & Product Builder | End-to-end ticketing platform for registration, payment, validation, and check-in | [nusatix.com](https://nusatix.com) |
-| **CityRun** | Head of Organizing Committee | Urban run series connecting runners with iconic city landmarks | Coming Soon |
-| **Loker Ciayumajakuning** | Founder | Regional job portal for Cirebon, Indramayu, Majalengka, and Kuningan | Coming Soon |
+| **CityRun** | Head of Organizing Committee | Urban run series connecting runners with iconic city landmarks | [cityrun.id](https://cityrun.id/) |
+| **Loker Ciayumajakuning** | Founder | Regional job portal for Cirebon, Indramayu, Majalengka, and Kuningan | [lokerciayumajakuning.com](https://lokerciayumajakuning.com) |
 | **BabyBox Indonesia** | Full-Stack Developer | Rental platform for baby equipment in JABODETABEK | [babybox.id](https://babybox.id) |
 | **Web Desa Digital** | Full-Stack Developer | Digital village information and public service platform | Project Based |
 
@@ -153,7 +160,7 @@ For event organizers and brands, Indonesia Marathon provides:
 - Backend: **Laravel 12**
 - Frontend: **Nuxt 4 SSR**
 - Architecture: **Headless API**
-- Rendering: **Hybrid Rendering with SWR**
+- Rendering: **Hybrid rendering with SWR**
 - Asset Management: **Spatie Media Library**
 - Cloud Storage: **Cloudflare R2**
 - Image Optimization: **WebP/AVIF auto conversion**
@@ -197,6 +204,8 @@ Highlights:
 - Coordinated operational teams
 - Supported event planning from concept to execution
 - Helped create a professional running experience for participants
+
+Visit: [cityrun.id](https://cityrun.id/)
 
 ---
 
@@ -256,6 +265,8 @@ Covered regions:
 - Kuningan
 
 The platform aims to close the gap between local job seekers and regional business needs.
+
+Website: [lokerciayumajakuning.com](https://lokerciayumajakuning.com)
 
 Focus areas:
 
@@ -380,7 +391,8 @@ Highlights:
 A digital ecosystem and authority platform for runners, event organizers, and brands in Indonesia.
 
 **Role:** Founder & Lead Developer  
-**Tech:** Laravel 12, Nuxt 4 SSR, Cloudflare R2, Spatie Media Library
+**Tech:** Laravel 12, Nuxt 4 SSR, Cloudflare R2, Spatie Media Library  
+**Website:** [indonesiamarathon.com](https://indonesiamarathon.com)
 
 Key features:
 
@@ -399,6 +411,7 @@ Key features:
 An end-to-end ticketing platform designed to simplify event registration, payment, validation, and check-in.
 
 **Role:** Founder & Product Builder  
+**Website:** [nusatix.com](https://nusatix.com)  
 **Focus:** Event registration, payment flow, ticketing, validation, check-in
 
 ---
@@ -407,7 +420,8 @@ An end-to-end ticketing platform designed to simplify event registration, paymen
 
 A professional urban running series that connects runners with iconic landmarks across Indonesian cities.
 
-**Role:** Head of Organizing Committee
+**Role:** Head of Organizing Committee  
+**Website:** [cityrun.id](https://cityrun.id/)
 
 Key responsibilities:
 
@@ -425,6 +439,7 @@ Key responsibilities:
 A rental platform for baby equipment such as strollers, toys, and other needs for families in JABODETABEK.
 
 **Role:** Full-Stack Developer  
+**Website:** [babybox.id](https://babybox.id)  
 **Focus:** Simplicity, performance, and user experience
 
 ---
@@ -456,23 +471,30 @@ Features:
 A job portal focused on helping job seekers and companies across Cirebon, Indramayu, Majalengka, and Kuningan.
 
 **Role:** Founder & Full-Stack Developer  
+**Website:** [lokerciayumajakuning.com](https://lokerciayumajakuning.com)  
 **Focus:** Regional employment ecosystem, job listing, recruiter tools, candidate experience
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=haykal24&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<img src="https://github-profile-trophy.vercel.app/?username=haykal24&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophy" />
 
 <br />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=haykal24&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haykal24&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=haykal24&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=haykal24&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+
+<br />
+<br />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haykal24&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=haykal24&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 
 </div>
 
@@ -502,6 +524,12 @@ I'm open to discussing product development, running tech, event platforms, start
 </a>
 <a href="https://indonesiamarathon.com" target="_blank">
   <img src="https://img.shields.io/badge/Indonesia%20Marathon-Visit%20Platform-FF6B00?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Indonesia Marathon" />
+</a>
+<a href="https://cityrun.id/" target="_blank">
+  <img src="https://img.shields.io/badge/CityRun-Visit%20Website-111827?style=for-the-badge&logo=runkeeper&logoColor=white" alt="CityRun" />
+</a>
+<a href="https://lokerciayumajakuning.com" target="_blank">
+  <img src="https://img.shields.io/badge/Loker%20Ciayumajakuning-Visit%20Website-2563EB?style=for-the-badge&logo=briefcase&logoColor=white" alt="Loker Ciayumajakuning" />
 </a>
 <a href="https://www.linkedin.com/in/muhammad-haikal24/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
