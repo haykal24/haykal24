@@ -10,19 +10,32 @@
 
 </div>
 
-### Live products
+### Products
 
 | | Product | What it does |
 |:-:|:--|:--|
-| 💼 | [**Loker Ciayumajakuning**](https://lokerciayumajakuning.com) | Job portal, 5 regional brands, AI moderation + WhatsApp assistant |
+| 💼 | **Job portal network** | 5 regional job boards, AI moderation + WhatsApp assistant |
+| | ↳ [Loker Ciayumajakuning](https://lokerciayumajakuning.com) · [Loker Jawa Barat](https://lokerjawabarat.com) · [Loker Jawa Tengah](https://lokerjawatengah.com) · [Loker Jawa Timur](https://lokerjawatimur.com) · [Loker Penerbit](https://lokerpenerbit.id) | |
 | 📝 | [**RuangTes**](https://ruangtes.id) | Online tryouts: CPNS, UTBK, BUMN, LPDP, PPPK |
 | 🏃 | [**Indonesia Marathon**](https://indonesiamarathon.com) | Running event calendar for Indonesia |
 | 🎟️ | [**NusaTix**](https://nusatix.com) | Event ticketing, payment to check-in |
 | 🎵 | [**Infokonser**](https://infokonser.id) | Concert schedules, auto-curated |
 | ⬇️ | [**TapKlip**](https://tapklip.com) | Save TikTok, IG, FB, Pinterest media |
 | 🏙️ | [**CityRun**](https://cityrun.id) · [**PeakMiles**](https://peakmiles.id) | Urban run series · virtual run |
+| 📚 | [**Lokabuku**](https://lokabuku.id) · [**PaudPedia**](https://paudpedia.id) · [**CekPddikti**](https://cekpddikti.com) | Book marketplace · preschool directory · campus directory |
 
-<sub>Also: [Lokabuku](https://lokabuku.id) · [PaudPedia](https://paudpedia.id) · [BabyBox](https://babybox.id) · Webina Naramedia (agency)</sub>
+### Portfolio
+
+<sub>Client work via [Webina](https://webina.id)</sub>
+
+| Client | Project |
+|:--|:--|
+| [**BabyBox**](https://babybox.id) | Baby gear rental platform, Jabodetabek |
+| [**Rene Turos**](https://reneturos.com) | Online bookstore + [group site](https://reneturos.id) |
+| [**PPID PAM JAYA**](https://ppid.pamjaya.co.id) | Public information portal for Jakarta's water utility |
+| [**Desa Kedungwungu**](https://desa.webina.id) | Digital village information + public services |
+| **Perpustakaan Kab. Nias** | Library system (InlisLite) |
+| [**MyLand**](https://myland.id) | Property listing landing page |
 
 ### Stack
 
