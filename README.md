@@ -34,8 +34,6 @@
 
 <img src="https://streak-stats.demolab.com/?user=haykal24&theme=transparent&hide_border=true&ring=2563EB&fire=2563EB&currStreakLabel=2563EB" alt="Streak" />
 
-<img src="https://ghchart.rshah.org/2563eb/haykal24" width="100%" alt="Contributions" />
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:1d4ed8&height=90&section=footer" width="100%" alt="" />
 
 </div>
